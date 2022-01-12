@@ -11,3 +11,7 @@ function draw() {
   arc(400,240,200,20,0, PI);
   point(600,260)
 }
+
+
+
+// código teste
