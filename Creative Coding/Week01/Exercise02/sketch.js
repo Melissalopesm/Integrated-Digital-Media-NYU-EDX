@@ -12,6 +12,4 @@ function draw() {
   point(600,260)
 }
 
-
-
-// test again 002
+// Desenhos geométricos
