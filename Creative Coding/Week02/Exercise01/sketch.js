@@ -3,5 +3,9 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(200, 24, 0);
+  fill(100, 12, 0);
+  rect(0, 0, 100, 100);
 }
+
+//variables
