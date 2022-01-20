@@ -5,3 +5,6 @@ function setup() {
 function draw() {
   background(220);
 }
+
+
+// Anatomy of a function: rect()
