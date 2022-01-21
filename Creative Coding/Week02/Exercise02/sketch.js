@@ -1,7 +1,12 @@
+var circleWidth = 5;
+
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(500, 500);
 }
 
 function draw() {
-  background(220);
+  background(255);
+
+  fill(0);
+  ellipse(100, 100, circleWidth, 100);
 }
