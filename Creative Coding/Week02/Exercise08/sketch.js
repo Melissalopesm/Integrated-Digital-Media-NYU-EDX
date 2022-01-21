@@ -1,7 +1,10 @@
 function setup() {
-  createCanvas(400, 400);
+	createCanvas(windowWidth, windowHeight);
+	background(100);
 }
 
 function draw() {
-  background(220);
+	rect(mouseX, mouseY, 20, 20);
 }
+
+//Exercício proposto pelo curso
