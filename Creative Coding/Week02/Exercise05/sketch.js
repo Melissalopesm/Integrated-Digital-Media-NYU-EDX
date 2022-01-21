@@ -1,7 +1,12 @@
 function setup() {
-  createCanvas(400, 400);
+	createCanvas(windowWidth, windowHeight);
+	background(100);
 }
 
 function draw() {
-  background(220);
+	var x = 10;
+	var y = 100;
+	rect(x, y, 20, 20);
 }
+
+//Exercise solution
